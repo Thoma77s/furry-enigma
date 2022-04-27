@@ -16,11 +16,11 @@
 
 
 ## Installation
- First you must run npm install, then npm install inquirer, and last npm install console.table
+ First you must run npm install, then npm install inquirer, npm install console.table, npm run seed
 
 
 ## Usage
- https://drive.google.com/file/d/1xS5dHa5FNEnp3RbrIKz5UvXOkBaV1m6T/view
+ https://drive.google.com/file/d/1AUTWQS6AoPxaKyfcYrK37FsewQAckv6u/view
 
 
 ## License
